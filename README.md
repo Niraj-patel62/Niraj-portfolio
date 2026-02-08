@@ -15,7 +15,8 @@ Enhanced portfolio with:
 1) Install dependencies
 
 ```powershell
-cd "C:\Users\sonuk\Desktop\Portfolio\profile"
+cd "c:\Users\np405\Downloads\Portfolio--main\Portfolio--main\profile"
+
 npm install
 ```
 
